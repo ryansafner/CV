@@ -1,0 +1,87 @@
+%\documentclass[letterpaper]{article}
+
+\usepackage{hyperref}
+\usepackage{geometry}
+\usepackage{multirow}
+\usepackage{graphicx}
+\graphicspath{./images/}
+
+% Comment the following lines to use the default Computer Modern font
+% instead of the Palatino font provided by the mathpazo package.
+% Remove the 'osf' bit if you don't like the old style figures.
+%\usepackage[T1]{fontenc}
+%\usepackage[sc,osf]{mathpazo}
+%\usepackage{imac}
+
+
+% Set your name here
+\newcommand{\name}{Ryan Safner}
+
+% Replace this with a link to your CV if you like, or set it empty
+% (as in \newcommand\footerlink{}) to remove the link in the footer:
+
+\newcommand{\footerlink}{http://ryansafner.com/cv.pdf}
+
+% The following metadata will show up in the PDF properties
+\hypersetup{
+  colorlinks = true,
+  urlcolor = cyan,
+  pdfauthor = {\name},
+  pdfkeywords = {economics, Ryan, Safner, CV},
+  pdftitle = {\name: Curriculum Vitae},
+  pdfsubject = {Curriculum Vitae},
+  pdfpagemode = UseNone
+}
+
+\geometry{
+  body={6.5in, 8.5in},
+  left=1.0in,
+  top=1.25in
+}
+
+% Customize page headers
+\pagestyle{myheadings}
+\markright{\name}
+\thispagestyle{empty}
+
+% Customize footer for every page
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\lhead{Ryan Safner}
+\rhead{\thepage}
+\cfoot{  \begin{footnotesize}
+    Last updated: \today \\
+    \href{\footerlink}{\texttt{\footerlink}}
+  \end{footnotesize}
+}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+
+
+% Custom section fonts
+\usepackage{sectsty}
+\sectionfont{\sffamily\mdseries\Large}
+\subsectionfont{\sffamily\mdseries\itshape\large}
+
+% Other possible font commands include:
+% \ttfamily for teletype,
+\sffamily for sans serif,
+% \bfseries for bold,
+% \scshape for small caps,
+% \normalsize, \large, \Large, \LARGE sizes.
+
+% Don't indent paragraphs.
+\setlength\parindent{0em}
+
+% Make lists without bullets
+\renewenvironment{itemize}{
+  \begin{list}{}{
+    \setlength{\leftmargin}{1.5em}
+  }
+}{
+  \end{list}
+}
+
+%Git Version Control
+%\immediate\write18{sh ./vc}
+%\input{vc}
