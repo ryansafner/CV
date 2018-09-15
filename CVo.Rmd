@@ -1,0 +1,189 @@
+---
+title: 
+author: 
+date: 
+output: 
+  pdf_document:
+    pandoc_args: "--latex-engine-opt=--enable-write18"
+    includes:
+      in_header: template.tex
+    latex_engine: xelatex
+---
+\Huge \sffamily \name
+
+\vspace{0.25in}
+
+\small \familydefault
+
+<!--Contact Table--> 
+
+\begin{minipage}{0.45\linewidth}
+  Hood College\\
+  401 Rosemont Avenue\\
+  Frederick, MD 21701\\
+\end{minipage}
+\begin{minipage}{0.45\linewidth}
+  \begin{tabular}{ll}
+    \includegraphics[height=1em]{cell.png} & (860) 573-8578 \\
+    \includegraphics[height=1em]{mail.png}& \href{mailto:safner@hood.edu}{\tt safner@hood.edu} \\
+    \includegraphics[height=1em]{web.png} & \href{http://ryansafner.com}{\tt ryansafner.com} \\
+  \end{tabular}
+\end{minipage}
+
+\section*{Academic Appointments}
+\begin{itemize}
+	\item \textbf{Hood College} -- Frederick, MD
+	\begin{itemize}
+		%\item Assistant Professor of Economics (2018--Present)
+		\item Visiting Assistant Professor of Economics (2016--Present)	
+	\end{itemize}
+	\item \textbf{Wake Forest University} -- Winston-Salem, NC
+	\begin{itemize}
+		\item Visiting Assistant Professor of Economics (2015--2016)
+	\end{itemize} 	
+	\item \textbf{George Mason University} -- Fairfax, VA
+	\begin{itemize}
+		\item Adjunct Lecturer (Summer 2015)
+		\item Graduate Lecturer (Summer 2013, Fall 2013, Spring 2014)
+	\end{itemize} 
+\end{itemize}
+
+\section*{Education}
+
+\begin{itemize}
+  \item Ph.D. Economics, George Mason University, 2015.
+	\begin{itemize}
+		\item Dissertation: \emph{Essays on the Institutional Analysis of Copyright and its Alternatives}
+	\end{itemize} 
+  \item M.A. Economics, George Mason University, 2013.
+  \item B.A. Economics, University of Connecticut, 2011.
+\end{itemize}
+
+\section*{Research}
+
+\subsection*{Peer-Reviewed Journal Articles}
+	\begin{itemize}
+		\item Safner, Ryan, 2016, ``\href{http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2564230}{Institutional Entrepreneurship, Wikipedia, and the Opportunity of the Commons},'' \emph{Journal of Institutional Economics} 12(4): 743-771 
+		\item Safner, Ryan, 2016, ``\href{http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2396874}{The Perils of Copyright Regulation},'' \emph{The Review of Austrian Economics} 29(2): 121-137
+	\end{itemize}
+
+\subsection*{Under Review}
+\begin{itemize}
+	\item \href{http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2626587}{Learning By Doing: Who's Learning? Who's Doing? and Other Production Function Myths} (with Santiago Gangotena)
+\end{itemize}
+
+\subsection*{Working Papers}
+
+\begin{itemize}
+	\item \href{http://ssrn.com/abstract=2488655}{``Public Goods'' or ``Good for the Public?'' How Political Entrepreneurship Endogenizes Public Goods} \\(Revise \& Resubmit Requested) 	
+	\item \href{http://papers.ssrn.com/abstract=2499621}{Distributing Patronage: Intellectual Property in the Transition from Natural State to Open Access Order}
+	\item \href{http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2564232}{Pirate Thy Neighbor: The Protectionist Roots of International Copyright}
+	\item  \href{http://ssrn.com/abstract=2399726}{Does Political Entrepreneurship Follow a ``Political Interest Rate?"}
+	\item Kickstart My Art: Is Crowdfunding a Substitute or a Complement to Intellectual Property Laws? 
+	\item A Structural Analysis of Regulatory Capitalism (with Julia Norgaard and Vlad Tarko)
+	\item Ideas, Networks, and Institutions: The Institutional Underpinnings of Idea Propagation (with Santiago Gangotena) 
+	\item Patent Warlords: How the Logic of the Natural State Holds Innovation Hostage
+	\item Crypto-Copyright: The Potential of Protecting Intellectual Property with the Blockchain
+\end{itemize}
+
+\subsection*{Research Interests}
+Public goods, innovation \& technological growth, and intellectual property, using the tools of game theory, new institutional economics, market process economics, and public choice
+
+\section*{Teaching}
+
+\subsection*{Hood College}
+\begin{itemize}
+	\item ECON 304 -- International Political Economy (Fall 2017) 
+	\item ECON 306 -- Microeconomic Analysis (Fall 2016; Spring 2017; Fall 2017; Spring 2018)
+	\item ECON 324 -- International Trade (Fall 2016)
+	\item ECON 326 -- Industrial Organization (Spring 2017)
+	\item ECON 410 -- Public Economics (Spring 2018)
+	\item ECON 480 -- Econometrics (Fall 2016; Fall 2017)
+	\item ECMG 212 -- Statistics for Economics \& Management (Spring 2017)
+	\item MGMT 399 -- Internship for Business (Spring 2018) 
+\end{itemize}
+
+\subsection*{Wake Forest University}
+\begin{itemize}
+	\item ECN 150 -- Introduction to Economics (Fall 2015: 3 sections; Spring 2016: 2 sections)	
+	\item ECN 271 -- Special Topics: Austrian Economics (Spring 2016) 
+\end{itemize}
+
+\subsection*{George Mason University} 
+\begin{itemize}
+	\item ECON 385 --  International Economic Policy (Summer 2013, Fall 2013, Spring 2014)
+	\item ECON 403 -- Austrian Economics (Summer 2015)
+	\item ICES -- High School Economics Workshops (Summer 2012, cotaught with Paul Mueller)
+\end{itemize}
+
+\section*{Academic Presentations}
+
+\begin{itemize}
+	\item 2017. ``The Network Origins of Economic Growth,'' \emph{Southern Economics Association} Annual Conference, Tampa, FL.  
+	\item 2016. ``Ideas, Institutions, and Technological Progress,'' \emph{Southern Economics Association} Annual Conference, Washington DC. 
+	\item 2015. ``Institutional Entrepreneurship, Wikipedia, and the Opportunity of the Commons,'' \emph{Southern Economics Association} Annual Conference, New Orleans, LA. 
+	\item 2015. ``Pirate Thy Neighbor: The Protectionist Roots of International Copyright," \emph{Public Choice Society} Annual Conference, San Antonio, TX.
+	\item 2015. ``Wiki-nomics: Bringing Institutions Back into Copyright Analysis with a Case Study of Wikipedia,'' \emph{Public Choice Society} Annual Conference, San Antonio, TX. 
+	\item 2014. ``Crowdfunding Creative Goods, Crowding out Intellectual Property?'' \emph{Southern Economics Association} Annual Conference, Atlanta, GA.
+	\item 2014. ``Learning by Doing: Who's Learning? Who's Doing? and other Production Function Myths,'' (with Santiago Gangotena). \emph{Southern Economics Association} Annual Conference, Atlanta, GA.
+	\item 2014. ```Public Goods' or  `Good for the Public?' - Endogenizing Public Goods,''  \emph{Association of Private Enterprise Education} Annual Conference, Las Vegas, NV.
+	\item 2014. ``A Structural Analysis of Regulatory Capitalism'' (with Julia Norgaard and Vlad Tarko).  \emph{Association of Private Enterprise Education} Annual Conference, Las Vegas, NV.
+	\item 2014. ``Democracy and Political Cost - A Framework for Understanding Political Entrepreneurship in an Entangled Political Economy,'' \emph{Public Choice Society} Annual Conference, Charleston, SC.
+	\item 2013. ``Copyright Since 1976: An Interventionism Framework,''  \emph{Southern Economic Association} Annual Conference, Tampa, FL.
+	\item 2013. ``Towards an Institutional View of Ideas, Copyright, and Piracy,'' \emph{Institute for Humane Studies}: Symposium on Scholarship and a Free Society, Arlington, VA.
+\end{itemize}
+
+\section*{Professional Development} 
+\begin{itemize}
+	\item 2014. \emph{Institute for Humane Studies} and \emph{The Liberty Fund, Inc.} Advanced Topics Seminar: City-States as an Alternative to Nation States. Arlington, VA
+	\item 2013. \emph{Institute for Humane Studies}: Symposium on Scholarship and a Free Society. Arlington, VA
+	\item 2012. \emph{Institute for Humane Studies} and \emph{The Liberty Fund, Inc.} Advanced Topics Seminar: The Growth of Government. Arlington, VA
+	\item 2012. \emph{Institute for Humane Studies} Advanced Studies Seminar: The Challenges and Future of Liberty. Arlington, VA
+	\item 2012. \emph{Institute for Humane Studies} Workshop: Career Development Workshop. Arlington, VA
+\end{itemize}
+
+\section*{Academic Awards}
+\begin{itemize}
+	\item Board of Associates McCardell Professional Development Grant 2018
+	\item Board of Associates McCardell Professional Development Grant 2017
+	\item F. A. Hayek Fund for Scholars (Institute for Humane Studies) 2015
+	\item F. A. Hayek Fund for Scholars (Institute for Humane Studies) 2014
+	\item Earhart Foundation Fellowship 2014-2015
+	\item Mercatus Center Graduate Student Summer Research Fellowship 2014
+	\item Graduate Student Travel Fund Grant (George Mason University) 2014
+	\item Earhart Foundation Fellowship 2013-2014
+	\item F. A. Hayek Fund for Scholars (Institute for Humane Studies) 2013
+	\item Dunn Foundation Fellowship 2012-2013
+\end{itemize}
+
+\section*{Professional Memberships} 
+\begin{itemize}
+	\item Society for the Development of Austrian Economics
+	\item Southern Economic Association
+	\item American Economic Association
+\end{itemize}
+
+\section*{Consulting} 
+\begin{itemize}
+	\item Member of City of Frederick Mayor's Strategic Opportunities Advisory Team, Economic Resilience Work Group, Ted Gregory, chair (2018) 	
+\end{itemize}
+
+\section*{Service to Hood College}
+\begin{itemize}
+	\item Proposed change to Economics major, approved by the Curriculum Committee (Spring 2018) 
+	\item Taught mini-course ``A Pirate's Life for Me -- The Economics of Intellectual Property and (Digital) Piracy'', Admitted Students Day, April 11, 2018;
+	\item Taught mini-course ``A Pirate's Life for Me -- The Economics of Intellectual Property and (Digital) Piracy'', Admitted Students Day, April 8, 2017;
+	\item Panel discussant for ``Globalization and Its Discontents'' Panel, Hood College, March 2, 2017. 
+	\item Committee chair for Departmental Honors Thesis undergraduate student Zack Miller (2017) 
+\end{itemize}
+
+\section*{Service to the Profession}
+\begin{itemize}
+	\item Reviewer for \emph{Journal of Institutional Economics}, \emph{European Journal of Law and Economics}, and \emph{Review of Austrian Economics} 
+	%\item Committee member for Senior Thesis undergraduate student Adrian Martino (WFU, 2016);
+	\item Faculty reviewer for \emph{Institute for Humane Studies}' Humane Studies Fellowships (2016, 2017) 
+\end{itemize}
+
+<!--FOOTER--> 
+
+
