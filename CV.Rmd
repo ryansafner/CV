@@ -70,7 +70,8 @@ Public goods, innovation & technological growth, and intellectual property, usin
 - ECMG 212 -- Statistics for Economics & Management (Spring 2017)
 - ECON 205 -- Principles of Macroeconomics (Fall 2018)
 - ECON 304 -- International Political Economy (Fall 2017) 
-- ECON 306 -- Microeconomic Analysis (Fall 2016; Spring 2017; Fall 2017; Spring 2018; Fall 2018)
+- ECON 306 -- Microeconomic Analysis (Fall 2016; Spring 2017; Fall 2017; Spring 2018; Fall 2018; Spring 2019)
+- ECON 317 -- Game Theory (Spring 2019)
 - ECON 324 -- International Trade (Fall 2016; Fall 2018)
 - ECON 326 -- Industrial Organization (Spring 2017)
 - ECON 410 -- Public Economics (Spring 2018)
@@ -90,9 +91,9 @@ Public goods, innovation & technological growth, and intellectual property, usin
 
 ## Academic Presentations {-}
 
-- 2018, "Distributing Patronage: Intellectual Property in the Transition from Natural State to Open Access Order," *Southern Economic Association* Annual Confernce, forthcoming
+- 2018, "Distributing Patronage: Intellectual Property in the Transition from Natural State to Open Access Order," *Southern Economic Association* Annual Confernce, Washington, DC. 
 - 2017, "The Network Origins of Economic Growth", *Southern Economic Association* Annual Conference, Tampa, FL.  
-- 2016, "Ideas, Institutions, and Technological Progress," *Southern Economic Association* Annual Conference, Washington DC. 
+- 2016, "Ideas, Institutions, and Technological Progress," *Southern Economic Association* Annual Conference, Washington, DC. 
 - 2015, "Institutional Entrepreneurship, Wikipedia, and the Opportunity of the Commons," *Southern Economic Association* Annual Conference, New Orleans, LA. 
 - 2015, "Pirate Thy Neighbor: The Protectionist Roots of International Copyright," *Public Choice Society* Annual Conference, San Antonio, TX.
 - 2015, "Wiki-nomics: Bringing Institutions Back into Copyright Analysis with a Case Study of Wikipedia," *Public Choice Society* Annual Conference, San Antonio, TX. 
