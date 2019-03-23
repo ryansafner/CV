@@ -23,7 +23,8 @@ output:
 # Academic Appointments {-}
 
 - **Hood College** -- Frederick, MD
-  	- Visiting Assistant Professor of Economics (2016--Present)	
+    - Assistant Professor of Economics (2019--Present)
+  	- Visiting Assistant Professor of Economics (2016--2019)	
 - **Wake Forest University** -- Winston-Salem, NC
     - Visiting Assistant Professor of Economics (2015--2016)
 - **George Mason University** -- Fairfax, VA
