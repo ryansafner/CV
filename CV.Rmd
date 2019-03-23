@@ -2,7 +2,7 @@
 title: "CV"
 author: Ryan Safner
 
-jobtitle: "Visiting Assistant Professor of Economics"
+jobtitle: "Assistant Professor of Economics"
 department: "George B. Delaplaine Jr. School of Business"
 address: "401 Rosemont Avenue · **Hood College** · Frederick, MD 21701"
 email: safner@hood.edu
