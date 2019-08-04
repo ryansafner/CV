@@ -10,13 +10,12 @@ github: ryansafner
 web: ryansafner.com
 
 keywords: Ryan Safner, economics, CV, Hood
-commit: "`r substr(git2r::branch_target(git2r::head(git2r::repository())), 1, 8)`"
-date: "`r system('git log -1 --format=%cd',intern=TRUE)`"
+date: "`r Sys.Date()`"
 output: 
   pdf_document:
     number_sections: false
     template: template.tex
-    pandoc_args: "--latex-engine-opt=--enable-write18"
+    #pandoc_args: "--pdf-engine-opt=--enable-write18"
     latex_engine: xelatex
 ---
 
@@ -71,12 +70,13 @@ Public goods, innovation & technological growth, and intellectual property, usin
 - ECMG 212 -- Statistics for Economics & Management (Spring 2017)
 - ECON 205 -- Principles of Macroeconomics (Fall 2018)
 - ECON 304 -- International Political Economy (Fall 2017) 
-- ECON 306 -- Microeconomic Analysis (Fall 2016; Spring 2017; Fall 2017; Spring 2018; Fall 2018; Spring 2019)
-- ECON 317 -- Game Theory (Spring 2019)
+- ECON 306 -- Microeconomic Analysis (Fall 2016; Spring 2017; Fall 2017; Spring 2018; Fall 2018; Spring 2019; Fall 2019)
+- ECON 316 -- Game Theory (Spring 2019)
+- ECON 317 -- Economics of Development (Fall 2019)
 - ECON 324 -- International Trade (Fall 2016; Fall 2018)
 - ECON 326 -- Industrial Organization (Spring 2017)
 - ECON 410 -- Public Economics (Spring 2018)
-- ECON 480 -- Econometrics (Fall 2016; Fall 2017; Fall 2018)
+- ECON 480 -- Econometrics (Fall 2016; Fall 2017; Fall 2018; Fall 2019)
 - MGMT 399 -- Internship for Business (Spring 2018) 
 
 ## Wake Forest University {-}
@@ -144,13 +144,17 @@ Public goods, innovation & technological growth, and intellectual property, usin
 
 ## To Hood College {-}
 
+- Chaired search committee for Visiting Assistant Professor of Economics (2019-2020) position, successful
+- Taught mini-course "Magic Internet Money? How Blockchain Technology Could Revolutionize the 21st Century Economy," Accepted Students Day, April 6, 2019
 - Panel discussant for "The EU: Dead At 60?" Panel, Hood College, September 7, 2018. 
 - Member of Curriculum Committee (Fall 2018--)
 - Proposed change to Economics major, approved by the Curriculum Committee (Spring 2018) 
-- Taught mini-course "A Pirate's Life for Me -- The Economics of Intellectual Property and (Digital) Piracy", Admitted Students Day, April 11, 2018;
-- Taught mini-course "A Pirate's Life for Me -- The Economics of Intellectual Property and (Digital) Piracy", Admitted Students Day, April 8, 2017;
+- Taught mini-course "A Pirate's Life for Me -- The Economics of Intellectual Property and (Digital) Piracy", Accepted Students Day, April 11, 2018;
+- Taught mini-course "A Pirate's Life for Me -- The Economics of Intellectual Property and (Digital) Piracy", Accepted Students Day, April 8, 2017;
 - Panel discussant for "Globalization and Its Discontents" Panel, Hood College, March 2, 2017. 
-- Committee chair for Departmental Honors Thesis undergraduate student Elias Nicholson (2018-2019); Zack Miller (2016-2017) 
+- Committee chair for Departmental Honors Thesis undergraduate students Elias Nicholson (2018-2019); Zack Miller (2016-2017)
+    - Elias Nicholson's thesis published as Nicholson, Elias, 2019, "Regulation and Discrimination: Race and Interest Rate Mark-Ups in the Auto Loan Industry," [*Issues in Political Economy*](https://blogs.elon.edu/ipe/issues/volume-28-issue-1/) 28(1) 
+- Committee member for Departmental Honors Thesis undergraduate students Jaclyn Bealer (2016-2017); Jared Knowles (2016-2017)
 - Department Library Liason (Fall 2016--Present)
 
 ## To the Profession {-}
