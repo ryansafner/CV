@@ -48,14 +48,14 @@
 \pagestyle{fancy}
 \lhead{Ryan Safner}
 \rhead{\thepage}
-\cfoot{\href{\footerlink}{Latest version}: \texttt{$commit$} on $date$}
+\cfoot{Latest version: \href{\footerlink}{$date$}}
 \renewcommand{\headrulewidth}{0.4pt}
 \renewcommand{\footrulewidth}{0.4pt}
 
 % Put footer on first page (but not header)
 \fancypagestyle{plain}{%
 \fancyhf{} % clear all header and footer fields
-\fancyfoot[C]{\href{\footerlink}{Latest version}: \texttt{$commit$} on $date$} % except the center
+\fancyfoot[C]{Latest version: \href{\footerlink}{$date$}} % except the center
 \renewcommand{\headrulewidth}{0pt}
 \renewcommand{\footrulewidth}{0.4pt}}
 
