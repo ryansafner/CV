@@ -47,10 +47,11 @@ output:
 ## Under Review {-}
 
 - [Learning By Doing: Who's Learning? Who's Doing? and Other Production Function Myths](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2626587) (with Santiago Gangotena)
+- "['Public Goods' or 'Good for the Public?' How Political Entrepreneurship Endogenizes Public Goods](http://ssrn.com/abstract=2488655)"
 
 ## Working Papers {-}
 
-- "['Public Goods' or 'Good for the Public?' How Political Entrepreneurship Endogenizes Public Goods](http://ssrn.com/abstract=2488655)"
+- "A Tale of Two Capitals: Modelling the Interaction between Ideas, Physical Capital, and Growth" (with Santiago Gangotena)
 - "[Distributing Patronage: Intellectual Property in the Transition from Natural State to Open Access Order](http://papers.ssrn.com/abstract=2499621)"
 - "[Pirate Thy Neighbor: The Protectionist Roots of International Copyright](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2564232)"
 - "Kickstart My Art: Is Crowdfunding a Substitute or a Complement to Intellectual Property Laws?" 
@@ -71,13 +72,18 @@ Public goods, innovation & technological growth, and intellectual property, usin
 - ECON 205 -- Principles of Macroeconomics (Fall 2018)
 - ECON 304 -- International Political Economy (Fall 2017) 
 - ECON 306 -- Microeconomic Analysis (Fall 2016; Spring 2017; Fall 2017; Spring 2018; Fall 2018; Spring 2019; Fall 2019)
+    - See [Course Website](http://microf19.classes.ryansafner.com)
 - ECON 316 -- Game Theory (Spring 2019)
 - ECON 317 -- Economics of Development (Fall 2019)
+    - See [Course Website](http://devf19.classes.ryansafner.com)
 - ECON 324 -- International Trade (Fall 2016; Fall 2018)
 - ECON 326 -- Industrial Organization (Spring 2017)
 - ECON 410 -- Public Economics (Spring 2018)
 - ECON 480 -- Econometrics (Fall 2016; Fall 2017; Fall 2018; Fall 2019)
+    - See [Course Website](http://metricsf19.classes.ryansafner.com)
 - MGMT 399 -- Internship for Business (Spring 2018) 
+
+- See also [my blog](http://ryansafner.com/post/) for posts relevant to teaching and pedagogy, particularly related to econometrics, data science, and workflow
 
 ## Wake Forest University {-}
 
@@ -92,8 +98,9 @@ Public goods, innovation & technological growth, and intellectual property, usin
 
 ## Academic Presentations {-}
 
+- 2019, "A Tale of Two Capitals: ," *Southern Economic Association* Annual Conference, Fort Lauderdale, FL. 
 - 2019, "Magic Internet Money? How Blockchain Technology Might Revolutionize the 21st Century Economy," *Phi Kappa Phi* Lecture, Hood College
-- 2018, "Distributing Patronage: Intellectual Property in the Transition from Natural State to Open Access Order," *Southern Economic Association* Annual Confernce, Washington, DC. 
+- 2018, "Distributing Patronage: Intellectual Property in the Transition from Natural State to Open Access Order," *Southern Economic Association* Annual Conference, Washington, DC. 
 - 2017, "The Network Origins of Economic Growth", *Southern Economic Association* Annual Conference, Tampa, FL.  
 - 2016, "Ideas, Institutions, and Technological Progress," *Southern Economic Association* Annual Conference, Washington, DC. 
 - 2015, "Institutional Entrepreneurship, Wikipedia, and the Opportunity of the Commons," *Southern Economic Association* Annual Conference, New Orleans, LA. 
@@ -146,10 +153,11 @@ Public goods, innovation & technological growth, and intellectual property, usin
 
 - Member of Curriculum Committee (Fall 2018--Present)
     - Chair of Curriculum Committee (Fall 2019--Present)
+- Member of SPIRES Committee (Fall 2019--Present)
 - Chaired search committee for Visiting Assistant Professor of Economics (2019-2020) position, successful
 - Taught mini-course "Magic Internet Money? How Blockchain Technology Could Revolutionize the 21st Century Economy," Accepted Students Day, April 6, 2019
 - Panel discussant for "The EU: Dead At 60?" Panel, Hood College, September 7, 2018. 
-- Proposed change to Economics major, approved by the Curriculum Committee (Spring 2018) 
+- Proposed change to Economics major, approved by the Curriculum Committee (Spring 2018)
 - Taught mini-course "A Pirate's Life for Me -- The Economics of Intellectual Property and (Digital) Piracy", Accepted Students Day, April 11, 2018;
 - Taught mini-course "A Pirate's Life for Me -- The Economics of Intellectual Property and (Digital) Piracy", Accepted Students Day, April 8, 2017;
 - Panel discussant for "Globalization and Its Discontents" Panel, Hood College, March 2, 2017. 
