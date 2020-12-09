@@ -3,11 +3,9 @@
 
 \documentclass{article}
 \usepackage[utf8]{inputenc}
-\usepackage{hyperref}
-\usepackage{geometry}
-\usepackage{graphicx}
+\usepackage{hyperref, geometry, graphicx, sectsty, listings}
 \graphicspath{./images/}
-\usepackage{listings}
+
 %\usepackage{fontawesome}
 % Comment the following lines to use the default Computer Modern font
 % instead of the Palatino font provided by the mathpazo package.
@@ -61,9 +59,12 @@
 
 
 % Custom section fonts
-\usepackage{sectsty}
-\sectionfont{\sffamily\mdseries\Large}
-\subsectionfont{\sffamily\mdseries\itshape\large}
+%\usepackage{sectsty}
+%\sectionfont{\mdseries\Large}
+%\subsectionfont{\mdseries\itshape\large}
+
+%\usepackage{sectsty}
+% \allsectionsfont{\sffamily}
 
 % Other possible font commands include:
 % \ttfamily for teletype,
@@ -84,10 +85,18 @@
   \end{list}
 }
 
+%\newcommand*{\authorfont}{\fontfamily{phv}\selectfont}
+%$if(fontfamily)$
+%\usepackage[$fontfamilyoptions$]{$fontfamily$}
+%$else$
+%\usepackage{lmodern}
+%$endif$
+
 \begin{document}
 
+%\sffamily
 
-\centerline{\huge \sffamily $author$}
+\centerline{\huge $author$}
 
 \vspace{2 mm}
 
