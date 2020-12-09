@@ -4,12 +4,12 @@ author: Ryan Safner
 
 jobtitle: "Assistant Professor of Economics"
 department: "George B. Delaplaine Jr. School of Business"
-address: "401 Rosemont Avenue · **Hood College** · Frederick, MD 21701"
+address: "**Hood College**, Frederick, MD 21701"
 email: safner@hood.edu
 github: ryansafner
 web: ryansafner.com
 
-keywords: Ryan Safner, economics, CV, Hood
+keywords: Ryan Safner, economics, CV, Hood College
 date: "`r Sys.Date()`"
 output: 
   pdf_document:
@@ -17,6 +17,9 @@ output:
     template: template.tex
     #pandoc_args: "--pdf-engine-opt=--enable-write18"
     latex_engine: xelatex
+
+mainfont: Fira Sans Condensed
+sansfont: Fira Sans Condensed
 ---
 
 # Academic Appointments {-}
@@ -27,15 +30,15 @@ output:
 - **Wake Forest University** -- Winston-Salem, NC
     - Visiting Assistant Professor of Economics (2015--2016)
 - **George Mason University** -- Fairfax, VA
-	  - Adjunct Lecturer (Summer 2015)
-    - Graduate Lecturer (Summer 2013, Fall 2013, Spring 2014)
+  - Adjunct Lecturer (Summer 2015)
+  - Graduate Lecturer (Summer 2013, Fall 2013, Spring 2014)
 
 # Education {-}
 
-- Ph.D. Economics, George Mason University, 2015
+- Ph.D. (Economics), George Mason University, 2015
     - Dissertation: *Essays on the Institutional Analysis of Copyright and its Alternatives*
-- M.A. Economics, George Mason University, 2013
-- B.A. Economics, University of Connecticut, 2011
+- M.A. (Economics), George Mason University, 2013
+- B.A. (Economics), University of Connecticut, 2011
 
 # Research {-}
 
@@ -46,7 +49,7 @@ output:
 
 ## Under Review {-}
 
-- [Learning By Doing: Who's Learning? Who's Doing? and Other Production Function Myths](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2626587) (with Santiago Gangotena)
+- [The Production of Increasing Returns: Physical Technology, Institutional Technoloy, and the Pitfalls of Production Functions](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2626587) (with Santiago Gangotena)
 - "['Public Goods' or 'Good for the Public?' How Political Entrepreneurship Endogenizes Public Goods](http://ssrn.com/abstract=2488655)"
 
 ## Working Papers {-}
@@ -71,17 +74,15 @@ Public goods, innovation & technological growth, and intellectual property, usin
 - ECMG 212 -- Statistics for Economics & Management (Spring 2017)
 - ECON 205 -- Principles of Macroeconomics (Fall 2018)
 - ECON 304 -- International Political Economy (Fall 2017) 
-- ECON 306 -- Microeconomic Analysis (Fall 2016; Spring 2017; Fall 2017; Spring 2018; Fall 2018; Spring 2019; Fall 2019)
-    - See [Course Website](http://microf19.classes.ryansafner.com)
+- ECON 306 -- Microeconomic Analysis (Fall 2016; Spring 2017; Fall 2017; Spring 2018; Fall 2018; Spring 2019; Fall 2019; [Spring 2020](https://micros20.classes.ryansafner.com); Fall 2020)
 - ECON 316 -- Game Theory (Spring 2019)
-- ECON 317 -- Economics of Development (Fall 2019)
-    - See [Course Website](http://devf19.classes.ryansafner.com)
-- ECON 324 -- International Trade (Fall 2016; Fall 2018)
-- ECON 326 -- Industrial Organization (Spring 2017)
-- ECON 410 -- Public Economics (Spring 2018)
-- ECON 480 -- Econometrics (Fall 2016; Fall 2017; Fall 2018; Fall 2019)
-    - See [Course Website](http://metricsf19.classes.ryansafner.com)
-- MGMT 399 -- Internship for Business (Spring 2018) 
+- ECON 317 -- Economics of Development ([Fall 2019](https://devf19.classes.ryansafner.com))
+- ECON 324 -- International Trade (Fall 2016; Fall 2018; [Fall 2020](https://tradef20.classes.ryansafner.com))
+- ECON 326 -- Industrial Organization (Spring 2017; [Spring 2020](https://ios20.classes.ryansafner.com))
+- ECON 410 -- Public Economics (Spring 2018; [Spring 2020](https://publics20.classes.ryansafner.com))
+- ECON 452 -- History of Economic Thought ([Fall 2020](https://thoughtf20.classes.ryansafner.com))
+- ECON 480 -- Econometrics (Fall 2016; Fall 2017; Fall 2018; Fall 2019; [Fall 2020](https://metricsf20.classes.ryansafner.com))
+- MGMT 399 -- Internship for Business (Spring 2018)
 
 - See also [my blog](http://ryansafner.com/post/) for posts relevant to teaching and pedagogy, particularly related to econometrics, data science, and workflow
 
@@ -98,14 +99,14 @@ Public goods, innovation & technological growth, and intellectual property, usin
 
 ## Academic Presentations {-}
 
-- 2019, "A Tale of Two Capitals: ," *Southern Economic Association* Annual Conference, Fort Lauderdale, FL. 
+- 2019, "A Tale of Two Capitals," *Southern Economic Association* Annual Conference, Fort Lauderdale, FL. 
 - 2019, "Magic Internet Money? How Blockchain Technology Might Revolutionize the 21st Century Economy," *Phi Kappa Phi* Lecture, Hood College
-- 2018, "Distributing Patronage: Intellectual Property in the Transition from Natural State to Open Access Order," *Southern Economic Association* Annual Conference, Washington, DC. 
-- 2017, "The Network Origins of Economic Growth", *Southern Economic Association* Annual Conference, Tampa, FL.  
-- 2016, "Ideas, Institutions, and Technological Progress," *Southern Economic Association* Annual Conference, Washington, DC. 
-- 2015, "Institutional Entrepreneurship, Wikipedia, and the Opportunity of the Commons," *Southern Economic Association* Annual Conference, New Orleans, LA. 
+- 2018, "Distributing Patronage: Intellectual Property in the Transition from Natural State to Open Access Order," *Southern Economic Association* Annual Conference, Washington, DC.
+- 2017, "The Network Origins of Economic Growth", *Southern Economic Association* Annual Conference, Tampa, FL.
+- 2016, "Ideas, Institutions, and Technological Progress," *Southern Economic Association* Annual Conference, Washington, DC.
+- 2015, "Institutional Entrepreneurship, Wikipedia, and the Opportunity of the Commons," *Southern Economic Association* Annual Conference, New Orleans, LA.
 - 2015, "Pirate Thy Neighbor: The Protectionist Roots of International Copyright," *Public Choice Society* Annual Conference, San Antonio, TX.
-- 2015, "Wiki-nomics: Bringing Institutions Back into Copyright Analysis with a Case Study of Wikipedia," *Public Choice Society* Annual Conference, San Antonio, TX. 
+- 2015, "Wiki-nomics: Bringing Institutions Back into Copyright Analysis with a Case Study of Wikipedia," *Public Choice Society* Annual Conference, San Antonio, TX.
 - 2014, "Crowdfunding Creative Goods, Crowding out Intellectual Property?" *Southern Economic Association* Annual Conference, Atlanta, GA.
 - 2014, "Learning by Doing: Who's Learning? Who's Doing? and other Production Function Myths," (with Santiago Gangotena), *Southern Economic Association* Annual Conference, Atlanta, GA.
 - 2014, "'Public Goods' or  'Good for the Public?' - Endogenizing Public Goods," *Association of Private Enterprise Education* Annual Conference, Las Vegas, NV.
@@ -151,16 +152,16 @@ Public goods, innovation & technological growth, and intellectual property, usin
 
 ## To Hood College {-}
 
-- Member of Curriculum Committee (Fall 2018--Present)
-    - Chair of Curriculum Committee (Fall 2019--Present)
-- Member of SPIRES Committee (Fall 2019--Present)
-- Chaired search committee for Visiting Assistant Professor of Economics (2019-2020) position, successful
+- Member of Curriculum Committee (Fall 2018--Spring 2020)
+    - Committee Chair (Fall 2019--Spring 2020)
+- Member of SPIRES Committee (Fall 2019--Spring 2020)
+- Chaired search committee for Visiting Assistant Professor of Economics (2019-2020) position (successful hire)
 - Taught mini-course "Magic Internet Money? How Blockchain Technology Could Revolutionize the 21st Century Economy," Accepted Students Day, April 6, 2019
-- Panel discussant for "The EU: Dead At 60?" Panel, Hood College, September 7, 2018. 
+- Panel discussant for "The EU: Dead At 60?" Panel, Hood College, September 7, 2018
 - Proposed change to Economics major, approved by the Curriculum Committee (Spring 2018)
-- Taught mini-course "A Pirate's Life for Me -- The Economics of Intellectual Property and (Digital) Piracy", Accepted Students Day, April 11, 2018;
-- Taught mini-course "A Pirate's Life for Me -- The Economics of Intellectual Property and (Digital) Piracy", Accepted Students Day, April 8, 2017;
-- Panel discussant for "Globalization and Its Discontents" Panel, Hood College, March 2, 2017. 
+- Taught mini-course "A Pirate's Life for Me -- The Economics of Intellectual Property and (Digital) Piracy", Accepted Students Day, April 11, 2018
+- Taught mini-course "A Pirate's Life for Me -- The Economics of Intellectual Property and (Digital) Piracy", Accepted Students Day, April 8, 2017
+- Panel discussant for "Globalization and Its Discontents" Panel, Hood College, March 2, 2017
 - Committee chair for Departmental Honors Thesis undergraduate students Elias Nicholson (2018-2019); Zack Miller (2016-2017)
     - Elias Nicholson's thesis published as Nicholson, Elias, 2019, "Regulation and Discrimination: Race and Interest Rate Mark-Ups in the Auto Loan Industry," [*Issues in Political Economy*](https://blogs.elon.edu/ipe/issues/volume-28-issue-1/) 28(1) 
 - Committee member for Departmental Honors Thesis undergraduate students Jaclyn Bealer (2016-2017); Jared Knowles (2016-2017)
