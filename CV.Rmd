@@ -77,7 +77,7 @@ Public goods, innovation & technological growth, and intellectual property, usin
 
 ```{r}
 bibliography_entries("publications.bib") %>%
-  arrange(desc(author$family), issued)
+  arrange(desc(issued))
 ```
 
 \bigskip
