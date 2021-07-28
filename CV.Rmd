@@ -102,22 +102,22 @@ bibliography_entries("workingpapers.bib") %>%
 
 ## Summary
 
-I have taught a wide variety of economics electives and principles courses. At Hood college, I regularly teach intermediate microeconomics (every semester), econometrics (every fall), and an economics elective each semester. See also [my blog](http://ryansafner.com/post/) for posts relevant to teaching and pedagogy, particularly related to econometrics, data science, and workflow
+I have taught a wide variety of economics electives and principles courses. At Hood college, I regularly teach intermediate microeconomics (every semester), econometrics (every fall), and economics electives (1-2 each semester). See links below to my individual course websites, where all material is made public. See also [my blog](http://ryansafner.com/post/) for posts relevant to teaching and pedagogy, particularly related to econometrics, data science, and workflow.
 
 ## Hood College
 
 - ECMG 212 — Statistics for Economics & Management (S2017)
 - ECON 205 — Principles of Macroeconomics (F2018)
 - ECON 304 — International Political Economy (F2017) 
-- ECON 306 — Microeconomic Analysis (F2016; S2017; F2017; S2018; F2018; S2019; F2019; S2020; [F2020](https://microf20.classes.ryansafner.com); S2021)
-- ECON 315 — Economics of the Law^[Designed and created course] (S2021)
-- ECON 316 — Game Theory (S2019)
-- ECON 317 — Economics of Development ([F2019](https://devf19.classes.ryansafner.com))
-- ECON 324 — International Trade (F2016; F2018; [Fall 2020](https://tradef20.classes.ryansafner.com))
-- ECON 326 — Industrial Organization (S2017; [Spring 2020](https://ios20.classes.ryansafner.com))
-- ECON 410 — Public Economics (S2018; [Spring 2020](https://publics20.classes.ryansafner.com))
+- ECON 306 — Microeconomic Analysis (F2016; S2017; F2017; S2018; F2018; S2019; F2019; S2020; F2020; [S2021](https://microf20.classes.ryansafner.com); F2021)
+- ECON 315 — Economics of the Law ([S2021](https://laws21.classes.ryansafner.com)) [**Developed course**]
+- ECON 316 — Game Theory (S2019; [F2021](https://gamef21.classes.ryansafner.com))
+- ECON 317 — Economics of Development ([F2019](https://devf19.classes.ryansafner.com); F2021)
+- ECON 324 — International Trade (F2016; F2018; [F2020](https://tradef20.classes.ryansafner.com))
+- ECON 326 — Industrial Organization (S2017; [S2020](https://ios20.classes.ryansafner.com))
+- ECON 410 — Public Economics (S2018; [S2020](https://publics20.classes.ryansafner.com))
 - ECON 452 — History of Economic Thought ([F2020](https://thoughtf20.classes.ryansafner.com))
-- ECON 480 — Econometrics (F2016; F2017; F2018; F2019; [F2020](https://metricsf20.classes.ryansafner.com))
+- ECON 480 — Econometrics (F2016; F2017; F2018; F2019; [F2020](https://metricsf20.classes.ryansafner.com); F2021)
 - MGMT 399 — Internship for Business (S2018)
 
 ## Wake Forest University
@@ -132,7 +132,6 @@ I have taught a wide variety of economics electives and principles courses. At H
 - ICES — High School Economics Workshops (Summer 2012, cotaught with Paul Mueller)
 
 # \faComments \acvHeaderIconSep Talks
-
 - 2019, "A Tale of Two Capitals," *Southern Economic Association* Annual Conference, Fort Lauderdale, FL. 
 - 2019, "Magic Internet Money? How Blockchain Technology Might Revolutionize the 21st Century Economy," *Phi Kappa Phi* Lecture, Hood College
 - 2018, "Distributing Patronage: Intellectual Property in the Transition from Natural State to Open Access Order," *Southern Economic Association* Annual Conference, Washington, DC.
@@ -151,6 +150,7 @@ I have taught a wide variety of economics electives and principles courses. At H
 
 # Professional Development
 
+- 2021, *Institute for Humane Studies* Discussion Colloquium: Scientific Research and Economic Growth
 - 2014, *Institute for Humane Studies* and *The Liberty Fund, Inc.* Advanced Topics Seminar: City-States as an Alternative to Nation States. Arlington, VA
 - 2013, *Institute for Humane Studies*: Symposium on Scholarship and a Free Society. Arlington, VA
 - 2012, *Institute for Humane Studies* and *The Liberty Fund, Inc.* Advanced Topics Seminar: The Growth of Government. Arlington, VA
@@ -160,11 +160,12 @@ I have taught a wide variety of economics electives and principles courses. At H
 
 # \faTrophy \acvHeaderIconSep Academic Awards and Grants
 
+- F.A. Hayek Fund for Scholars (Institute for Humane Studies) 2021
 - Hood College Center for Teaching Academic Innovation Grant 2019
 - Hood College Board of Associates McCardell Professional Development Grant 2018
 - Hood College Board of Associates McCardell Professional Development Grant 2017
-- F. A. Hayek Fund for Scholars (Institute for Humane Studies) 2015
-- F. A. Hayek Fund for Scholars (Institute for Humane Studies) 2014
+- F.A. Hayek Fund for Scholars (Institute for Humane Studies) 2015
+- F.A. Hayek Fund for Scholars (Institute for Humane Studies) 2014
 - Earhart Foundation Fellowship 2014-2015
 - Mercatus Center Graduate Student Summer Research Fellowship 2014
 - Graduate Student Travel Fund Grant (George Mason University) 2014
@@ -183,7 +184,9 @@ I have taught a wide variety of economics electives and principles courses. At H
 
 - Member of Curriculum Committee (Fall 2018—Spring 2020)
     - Committee Chair (Fall 2019—Spring 2020)
-- Member of SPIRES Committee (Fall 2019—Spring 2020)
+- Member of SPIRES Committee (Fall 2019—)
+    - Inaugural SPIRES symposium (April 2021)
+- Member of TEDx Committee (Fall 2021—)
 - Chaired search committee for Visiting Assistant Professor of Economics (2019-2020) position (successful hire)
 - Taught mini-course "Magic Internet Money? How Blockchain Technology Could Revolutionize the 21st Century Economy," Accepted Students Day, April 6, 2019
 - Panel discussant for "The EU: Dead At 60?" Panel, Hood College, September 7, 2018
