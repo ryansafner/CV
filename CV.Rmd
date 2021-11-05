@@ -109,15 +109,15 @@ I have taught a wide variety of economics electives and principles courses. At H
 - ECMG 212 — Statistics for Economics & Management (S2017)
 - ECON 205 — Principles of Macroeconomics (F2018)
 - ECON 304 — International Political Economy (F2017) 
-- ECON 306 — Microeconomic Analysis (F2016; S2017; F2017; S2018; F2018; S2019; F2019; S2020; F2020; [S2021](https://microf20.classes.ryansafner.com); F2021)
+- ECON 306 — Microeconomic Analysis (F2016; S2017; F2017; S2018; F2018; S2019; F2019; S2020; F2020; S2021;  [F2021](https://microf21.classes.ryansafner.com))
 - ECON 315 — Economics of the Law ([S2021](https://laws21.classes.ryansafner.com)) [**Developed course**]
 - ECON 316 — Game Theory (S2019; [F2021](https://gamef21.classes.ryansafner.com))
-- ECON 317 — Economics of Development ([F2019](https://devf19.classes.ryansafner.com); F2021)
+- ECON 317 — Economics of Development (F0291; [F2021](https://devf21.classes.ryansafner.com))
 - ECON 324 — International Trade (F2016; F2018; [F2020](https://tradef20.classes.ryansafner.com))
 - ECON 326 — Industrial Organization (S2017; [S2020](https://ios20.classes.ryansafner.com))
 - ECON 410 — Public Economics (S2018; [S2020](https://publics20.classes.ryansafner.com))
 - ECON 452 — History of Economic Thought ([F2020](https://thoughtf20.classes.ryansafner.com))
-- ECON 480 — Econometrics (F2016; F2017; F2018; F2019; [F2020](https://metricsf20.classes.ryansafner.com); F2021)
+- ECON 480 — Econometrics (F2016; F2017; F2018; F2019; F2020; [F2021](https://metricsf21.classes.ryansafner.com))
 - MGMT 399 — Internship for Business (S2018)
 
 ## Wake Forest University
@@ -173,10 +173,10 @@ I have taught a wide variety of economics electives and principles courses. At H
 - F. A. Hayek Fund for Scholars (Institute for Humane Studies) 2013
 - Dunn Foundation Fellowship 2012-2013
 
-
 # \faBriefcase \acvHeaderIconSep Consulting
 
-- Member of City of Frederick Mayor's Strategic Opportunities Advisory Team, Economic Resilience Work Group, Ted Gregory, chair (2018) 	
+- Member of City of Frederick Mayor's Strategic Opportunities Advisory Team, Economic Resilience Work Group, Ted Gregory, chair (2018)
+  - 2018 *Report of the Strategic Opportunities Advisory Team*
 
 # \faUsers \acvHeaderIconSep Service
 
@@ -196,6 +196,8 @@ I have taught a wide variety of economics electives and principles courses. At H
 - Taught mini-course "A Pirate's Life for Me — The Economics of Intellectual Property and (Digital) Piracy", Accepted Students Day, April 8, 2017
 - Panel discussant for "Globalization and Its Discontents" Panel, Hood College, March 2, 2017
 - Committee chair for Departmental Honors Thesis undergraduate students:
+  - Maria Silva (2021-2022)
+  - Anubhooti Regmi (2021-2022)
   - Natalie Kolosieke (2020—2021)
   - Kevin Ciocco (2020—2021)
   - Valentin Donchev (2019—2020)
@@ -214,7 +216,8 @@ I have taught a wide variety of economics electives and principles courses. At H
 
 ## To the Profession
 
-- Reviewer for *Journal of Institutional Economics*, *European Journal of Law and Economics*, and *Review of Austrian Economics* 
+- Reviewer for *Journal of Institutional Economics*, *European Journal of Law and Economics*, and *Review of Austrian Economics*
+- Scientific Committee Member for *Panchonomist*
 - Faculty reviewer for *Institute for Humane Studies*' Humane Studies Fellowships (2016, 2017)
 
 ## \faGroup \acvHeaderIconSep Professional Memberships
@@ -241,7 +244,7 @@ tribble(
 - **Languages**:
   - English \faStar \faStar \faStar \faStar
   - Russian \faStar \faStar \faStarO \faStarO
-  - Spanish \faStar \faStar \faStar \faStarO
+  - Spanish \faStar \faStar \faStarHalfEmpty \faStarO
 - **Software**:
   - R: \faStar \faStar \faStar  \faStarHalfEmpty
   - Stata: \faStar \faStar \faStar \faStarHalfEmpty
