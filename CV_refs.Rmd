@@ -39,8 +39,7 @@ tribble(
   #"Hood College", "2016—2019", "Visiting Assistant Professor of Economics", "Frederick, MD", "Visiting Assistant Professor of Economics",
   #"Hood College", "2016—", "Assistant Professor of Economics", "Frederick, MD", "2019—",
   #"Hood College", "2016—", "Visiting Assistant Professor of Economics", "Frederick, MD", "2016—2019",
-  "Associate Professor of Economics", "2022—", "Hood College", "Frederick, MD",
-  "Assistant Professor of Economics", "2019—2022", "Hood College", "Frederick, MD",
+  "Assistant Professor of Economics", "2019—Present", "Hood College", "Frederick, MD",
   "Visiting Assistant Professor of Economics", "2016—2019", "Hood College", "Frederick, MD",
   "Visiting Assistant Professor of Economics", "2015—2016", "Wake Forest University", "Winston-Salem, NC",
   "Adjunct Lecturer", "2015", "George Mason University", "Fairfax, VA",
@@ -103,20 +102,20 @@ bibliography_entries("workingpapers.bib") %>%
 
 ## Summary
 
-I have taught a wide variety of economics electives and principles courses. At Hood college, I regularly teach intermediate microeconomics (every semester), econometrics (every fall), and economics electives (1-2 each semester). See links below to my individual course websites, where **all material is made public**. See also [my blog](http://ryansafner.com/post/) for posts relevant to teaching and pedagogy, particularly related to econometrics, data science, and workflow.
+I have taught a wide variety of economics electives and principles courses. At Hood college, I regularly teach intermediate microeconomics (every semester), econometrics (every fall), and economics electives (1-2 each semester). See links below to my individual course websites, where all material is made public. See also [my blog](http://ryansafner.com/post/) for posts relevant to teaching and pedagogy, particularly related to econometrics, data science, and workflow.
 
 ## Hood College
 
 - ECMG 212 — Statistics for Economics & Management (S2017)
 - ECON 205 — Principles of Macroeconomics (F2018)
 - ECON 304 — International Political Economy (F2017) 
-- ECON 306 — Microeconomic Analysis (F2016; S2017; F2017; S2018; F2018; S2019; F2019; S2020; F2020; S2021; F2021;  [S2022](https://micros22.classes.ryansafner.com))
+- ECON 306 — Microeconomic Analysis (F2016; S2017; F2017; S2018; F2018; S2019; F2019; S2020; F2020; S2021;  [F2021](https://microf21.classes.ryansafner.com))
 - ECON 315 — Economics of the Law ([S2021](https://laws21.classes.ryansafner.com)) [**Developed course**]
 - ECON 316 — Game Theory (S2019; [F2021](https://gamef21.classes.ryansafner.com))
 - ECON 317 — Economics of Development (F0291; [F2021](https://devf21.classes.ryansafner.com))
 - ECON 324 — International Trade (F2016; F2018; [F2020](https://tradef20.classes.ryansafner.com))
 - ECON 326 — Industrial Organization (S2017; [S2020](https://ios20.classes.ryansafner.com))
-- ECON 410 — Public Economics (S2018; S2020; [S2022](https://publics22.classes.ryansafner.com))
+- ECON 410 — Public Economics (S2018; [S2020](https://publics20.classes.ryansafner.com))
 - ECON 452 — History of Economic Thought ([F2020](https://thoughtf20.classes.ryansafner.com))
 - ECON 480 — Econometrics (F2016; F2017; F2018; F2019; F2020; [F2021](https://metricsf21.classes.ryansafner.com))
 - MGMT 399 — Internship for Business (S2018)
@@ -161,7 +160,6 @@ I have taught a wide variety of economics electives and principles courses. At H
 
 # \faTrophy \acvHeaderIconSep Academic Awards and Grants
 
-- Hood College Center for Teaching Academic Innovation Grant 2022
 - F.A. Hayek Fund for Scholars (Institute for Humane Studies) 2021
 - Hood College Center for Teaching Academic Innovation Grant 2019
 - Hood College Board of Associates McCardell Professional Development Grant 2018
@@ -184,7 +182,6 @@ I have taught a wide variety of economics electives and principles courses. At H
 
 ## To Hood College
 
-- Panel discussant for "The Crisis in Ukraine" Panel, Hood College, March 11, 2022
 - Member of Curriculum Committee (Fall 2018—Spring 2020)
     - Committee Chair (Fall 2019—Spring 2020)
 - Member of SPIRES Committee (Fall 2019—)
@@ -251,4 +248,15 @@ tribble(
 - **Software**:
   - R: \faStar \faStar \faStar  \faStarHalfEmpty
   - Stata: \faStar \faStar \faStar \faStarHalfEmpty
-  - Python: \faStarHalfEmpty \faStarO \faStarO \faStarO (learning)
+  
+# References
+
+- **Dr. David Gurzick**, Associate Professor of Management, and Chair, George B. Delaplaine, Jr. School of Business, Hood College
+
+- **Dr. Jerrold Van Winter**, Associate Professor of Marketing, George B. Delaplaine, Jr. School of Business, Hood College
+
+- **Dr. Santiago Gangotena**, Profesor, Universidad San Francisco de Quto
+
+- **Dr. Erin George**, Economist, Equal Employment Opportunity Commission
+
+Contact information available on request.
