@@ -1,0 +1,141 @@
+\documentclass[11pt]{article}
+\usepackage[urlcolor=blue]{hyperref}
+\usepackage{geometry}
+\usepackage{sectsty}
+\usepackage{multirow}
+\usepackage{graphicx}
+\graphicspath{{./images/}}
+\usepackage[T1]{fontenc}
+\usepackage[sc,osf]{mathpazo}
+\setcounter{secnumdepth}{0} % Disable section numbering
+%\usepackage{imac}
+
+\usepackage[style=apa, sorting=ydnt, backend=biber]{biblatex}  % Enable multiple bibliographies
+\addbibresource{publications.bib}
+\addbibresource{book-chapters.bib}
+\addbibresource{underreview.bib}
+\addbibresource{workingpapers.bib}
+
+% needed because "tightlist" is something Quarto does by default, but not defined
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+%%%------------------------------------------------------------------------
+%%% Metadata
+%%%------------------------------------------------------------------------
+
+\def\name{Ryan Safner}
+\def\mytitle{Vita}
+\def\mycopyright{\myauthor}
+\def\mykeywords{}
+\def\mybibliostyle{plain}
+\def\mybibliocommand{}
+\def\mysubtitle{}
+\def\myaffiliation{U.S. Copyright Office}
+\def\myaddress{Economics Department}
+\def\myemail{rsafner@gmu.edu}
+\def\myweb{ryansafner.com}
+\def\myphone{(860) 573-8578}
+\def\mytwitter{@ryansafner}
+\def\myversion{}
+\def\myrevision{}
+\def\mykeywords{Safner, Ryan, Ryan Safner, Vita, CV, Resume, Economics}
+
+% Replace this with a link to your CV if you like, or set it empty
+% (as in \def\footerlink{}) to remove the link in the footer:
+\def\footerlink{http://ryansafner.com/cv.pdf}
+
+% The following metadata will show up in the PDF properties
+\hypersetup{
+  colorlinks = true,
+  urlcolor = cyan,
+  pdfauthor = {\name},
+  pdfkeywords = {economics, Ryan, Safner, CV},
+  pdftitle = {\name: Curriculum Vitae},
+  pdfsubject = {Curriculum Vitae},
+  pdfpagemode = UseNone
+}
+
+\geometry{
+  body={6.5in, 8.5in},
+  left=1.0in,
+  top=1.25in
+}
+
+% Customize page headers
+\pagestyle{myheadings}
+\markright{\name}
+\thispagestyle{plain}
+
+% Customize footer for every page
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\lhead{Ryan Safner}
+\rhead{\thepage}
+%\rfoot{\texttt{\footnotesize \VCRevision\ on \VCDateTEX}}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+
+
+% Set section title style
+\usepackage{sectsty}
+\sectionfont{\rmfamily\bfseries\Large}
+\subsectionfont{\rmfamily\mdseries\itshape\large}
+
+% Other possible font commands include:
+% \ttfamily for teletype,
+% \sffamily for sans serif,
+% \bfseries for bold,
+% \scshape for small caps,
+% \normalsize, \large, \Large, \LARGE sizes.
+
+% Don't indent paragraphs.
+\setlength\parindent{0em}
+
+% Make lists without bullets
+\renewenvironment{itemize}{
+  \begin{list}{}{
+    \setlength{\leftmargin}{1.5em}
+  }
+}{
+  \end{list}
+}
+
+%Git Version Control
+%\immediate\write18{sh ./vc}
+%\input{vc}
+
+\begin{document}
+
+% Place name at left
+{\Huge \rmfamily \textbf{\name}}
+
+% Alternatively, print name centered and bold:
+%\centerline{\huge \bf \name}
+
+\vspace{0.25in}
+
+\begin{minipage}{0.45\linewidth}
+  U.S. Copyright Office\\
+  101 Independence Ave. SE\\
+  Washington, DC 20559\\
+\end{minipage}
+\begin{minipage}{0.45\linewidth}
+  \begin{tabular}{ll}
+    \includegraphics[height=1em]{cell} & (860) 573-8578 \\
+    \includegraphics[height=1em]{mail}& \href{mailto:ryansafner@gmail.com}{\tt ryansafner@gmail.com} \\
+    \includegraphics[height=1em]{web} & \href{http://ryansafner.com}{\tt ryansafner.com} \\
+  \end{tabular}
+\end{minipage}
+
+$body$
+
+% Footer
+%\begin{center}
+%  \begin{footnotesize}
+%    Last updated: \today \\
+%    \href{\footerlink}{\texttt{\footerlink}}
+%  \end{footnotesize}
+%\end{center}
+
+\end{document}
