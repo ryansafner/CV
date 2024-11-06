@@ -1,8 +1,10 @@
 \documentclass[11pt]{article}
 \usepackage[urlcolor=blue]{hyperref}
 \usepackage{geometry}
+\usepackage{tabularx}
 \usepackage{sectsty}
 \usepackage{multirow}
+\usepackage{fontawesome5}
 \usepackage{graphicx}
 \graphicspath{{./images/}}
 \usepackage[T1]{fontenc}
@@ -115,18 +117,19 @@
 
 \vspace{0.25in}
 
-\begin{minipage}{0.45\linewidth}
-  U.S. Copyright Office\\
-  101 Independence Ave. SE\\
-  Washington, DC 20559\\
-\end{minipage}
-\begin{minipage}{0.45\linewidth}
-  \begin{tabular}{ll}
-    \includegraphics[height=1em]{cell} & (XXX) XXX-XXXX \\
-    \includegraphics[height=1em]{mail}& \href{mailto:ryansafner@gmail.com}{\tt ryansafner@gmail.com} \\
-    \includegraphics[height=1em]{web} & \href{http://ryansafner.com}{\tt ryansafner.com} \\
+\begin{tabularx}{\textwidth}{@{}Xr@{}}  % X for left, r for right-aligned columns
+  \begin{tabular}{@{}l@{}}              % Left column
+    U.S. Copyright Office \\
+    101 Independence Ave. SE \\
+    Washington, DC 20001 \\
   \end{tabular}
-\end{minipage}
+  &
+  \begin{tabular}{@{}Xr@{}}              % Right column
+    \faEnvelope \hspace{0.5em} ryansafner [at] gmail.com \\
+    \faGithub \hspace{0.5em} \href{https://github.com/ryansafnert}{github.com/ryansafner} \\
+    \faGlobe \hspace{0.5em} \href{http://ryansafner.com}{ryansafner.com} \\
+  \end{tabular}
+\end{tabularx}
 
 $body$
 
