@@ -232,3 +232,7 @@ I have taught a wide variety of economics electives and principles courses. At H
   - English (native), Russian (conversational), Spanish (conversational)
 - Programming:
   - R, Stata, Python, NetLogo, Quarto, LaTeX, SQL, Git
+
+# References
+
+- Dr. Jerrold van Winter, 
