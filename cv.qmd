@@ -61,7 +61,7 @@ The political economy and economic history of public goods, innovation & technol
 \end{refsection}
 ```
 
-## Book Chapters
+<!--## Book Chapters
 
 ```{=latex}
 \begin{refsection}[book-chapters.bib]    % Set bibliography to book-chapters.bib
@@ -70,14 +70,7 @@ The political economy and economic history of public goods, innovation & technol
 \end{refsection}
 ```
 
-## Under Review
-
-```{=latex}
-\begin{refsection}[underreview.bib]    % Set bibliography to book-chapters.bib
-\nocite{*}                               % Include all entries
-\printbibliography[heading=none]         % Print the bibliography
-\end{refsection}
-```
+-->
 
 ## Working Papers
 
