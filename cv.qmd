@@ -17,7 +17,7 @@ bibliography:
   - book-chapters.bib
 ---
 
-# Appointments
+# Experience
 
 - **U.S. Copyright Office**, Washington, DC
   - 2023- $\quad \quad \quad$ Economist, Office of the Chief Economist
@@ -33,9 +33,9 @@ bibliography:
 
 # Education
 
-- $\quad$ 2015 $\quad \quad$ Ph.D, Economics, *George Mason University*
-- $\quad$ 2013 $\quad \quad$ M.A., Economics, *George Mason University*
-- $\quad$ 2011 $\quad \quad$ B.A., Economics, *University of Connecticut*
+- $\quad$ 2015 $\quad \quad \quad \; \;$ Ph.D, Economics, *George Mason University*
+- $\quad$ 2013 $\quad \quad \quad \; \;$  M.A., Economics, *George Mason University*
+- $\quad$ 2011 $\quad \quad \quad \; \;$ B.A., Economics, *University of Connecticut*
 
 # Research
 
@@ -52,7 +52,7 @@ The political economy and economic history of public goods, innovation & technol
 \end{refsection}
 ```
 
-## Government Reports
+## Official Government Reports
 
 ```{=latex}
 \begin{refsection}[govt-reports.bib]     % Set bibliography to publications.bib
@@ -61,7 +61,7 @@ The political economy and economic history of public goods, innovation & technol
 \end{refsection}
 ```
 
-<!--## Book Chapters
+## Book Chapters
 
 ```{=latex}
 \begin{refsection}[book-chapters.bib]    % Set bibliography to book-chapters.bib
@@ -69,8 +69,6 @@ The political economy and economic history of public goods, innovation & technol
 \printbibliography[heading=none]         % Print the bibliography
 \end{refsection}
 ```
-
--->
 
 ## Working Papers
 
