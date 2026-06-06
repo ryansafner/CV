@@ -1,0 +1,39 @@
+---
+title: "Ryan Safner, Ph.D"
+format: 
+  pdf:
+    number_sections: false
+#mainfont: Crimson Text
+#monofont: Crimson Text
+template: resume_template.tex
+execute:
+  echo: false
+  message: false
+  warning: false
+---
+
+# Skills
+- **Computing**: AI, R, Python, machine learning, Stata, SQL, Git
+- **Design**: LaTeX, Quarto
+- **Language**: English (native), Russian (intermediate), Spanish (basic)
+
+# Experience
+
+- $\quad$ 2023- $\quad \quad \quad$ **U.S. Copyright Office**, *Economist*, Office of the Chief Economist (Washington, DC)
+    - Acquired, transformed, and released major update to public data on U.S. Copyright Registrations 1978-2025
+    - Developed LLM and machine learning classification models to classify copyright registrations
+    - Presented complex research to internal and external stakeholders at international & national academic conferences
+    - Contributed to three Copyright Office reports (lead contributor to one)
+- $\quad$ 2016-2023 $\quad$ **Hood College**, *Associate Professor of Economics* (Frederick, MD)
+    - Achieved tenure and rank of Associate Professor of Economics (2022)
+    - Taught 7 course sections per year (21 credit hours/week) of 13 different courses — regularly taught
+Microeconomic Analysis, Econometrics (using R and Stata) and rotated between electives such as
+International Trade, International Political Economy, Economics of Development, Game Theory, Statistics
+for Business and Economics Majors, Economics of the Law, Industrial Organization, Public Economics,
+History of Economic Thought
+
+# Education
+
+- $\quad$ 2015 $\quad \quad \quad \;$ Ph.D, Economics, *George Mason University*
+- $\quad$ 2013 $\quad \quad \quad \;$  M.A., Economics, *George Mason University*
+- $\quad$ 2011 $\quad \quad \quad \;$ B.A., Economics, *University of Connecticut*
